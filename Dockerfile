@@ -14,4 +14,3 @@ RUN npm install
 EXPOSE 3000
 CMD ["npm","start" ]
 # IF YOU ARE MODIFYING THIS BOT DONT CHANGE THIS  RUN rm -rf /root/Itxxwasi/node_modules
-# mr fucker
